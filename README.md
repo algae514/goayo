@@ -1,0 +1,2 @@
+# goayo
+static site
